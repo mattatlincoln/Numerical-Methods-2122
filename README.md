@@ -1,2 +1,3 @@
-# Numerical-Methods-2122
-materials for the Numerical Methods module at University of Lincoln 21-22
+## Welcome to Numerical Methods 21-22
+
+[Module Handbook](web/ModuleHandbook_NumericalMethods.jl.html)
