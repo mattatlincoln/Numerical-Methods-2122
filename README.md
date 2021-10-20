@@ -3,3 +3,5 @@
 [Module Handbook](web/ModuleHandbook_NumericalMethods.jl.html)
 
 [Lecture 1](https://mattatlincoln.github.io/teaching/numerical_methods/lecture_1)
+
+[Lecture 2](https://mattatlincoln.github.io/teaching/numerical_methods/lecture_2)
