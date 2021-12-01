@@ -13,3 +13,5 @@
 [Lecture 5](https://mattatlincoln.github.io/teaching/numerical_methods/lecture_5)
 
 [Lecture 6](https://mattatlincoln.github.io/teaching/numerical_methods/lecture_7)
+
+[Lecture 8](https://mattatlincoln.github.io/teaching/numerical_methods/lecture_8)
